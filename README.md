@@ -21,7 +21,7 @@
   
   - **Solver**
   <br></br>
-  &nbsp;&nbsp;&nbsp;&nbsp; Every mode has a solver in it. You have to just click the solve button and you'll get the final solution. If you have put some values wrong as the grid is not solvable anymore and you are trying to get solution, it will raise an error.
+  &nbsp;&nbsp;&nbsp;&nbsp; Every mode has a solver in it. You have to just click the solve button and you'll get the final solution. If you have put some values wrong as the grid is not solvable anymore and you are clicking on the solve button, it will raise an error.
   <p align="center">
   <img width="600" height="450" src="https://github.com/shoifmohammad/Sudoku/blob/master/screenshots/solver.png">
   </p>
