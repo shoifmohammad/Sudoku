@@ -41,7 +41,7 @@
   
   - **Image Detection**
   <br></br>
-  &nbsp;&nbsp;&nbsp;&nbsp; There is a mode named 'Image' that provides you option to choose an image of sudoku grid in '.jpg', '.jpeg' or '.png' format. Then the grid will be detected from the image and you can proceed further. For example you can use the sample images of sudoku grid from 'samle' folder.
+  &nbsp;&nbsp;&nbsp;&nbsp; There is a mode named 'Image' that provides you option to choose an image of sudoku grid in '.jpg', '.jpeg' or '.png' format. Then the grid will be detected from the image and you can proceed further. For example you can use the sample images of sudoku grid from 'sample' folder.
   <br></br>
   The method for grid detection has to be improved. *Feel free to give a pull request.*
   
