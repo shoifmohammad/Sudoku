@@ -35,6 +35,9 @@
   <p align="center">
   <img width="600" height="450" src="https://github.com/shoifmohammad/Sudoku/blob/master/screenshots/custom.png">
   </p>
+  <p align="center">
+    Blank grid to create your own
+  </p>
   
   - **Image Detection**
   <br></br>
