@@ -75,9 +75,6 @@
 > **Required python packages :**
   - pygame, tkinter, PIL, pytesseract
   
-  ```
-        Installation: pip install pygame, tkinter, PIL, tesseract-ocr
-  ```
   
 > **How to run :**
   - Run the 'game.py' in python3
